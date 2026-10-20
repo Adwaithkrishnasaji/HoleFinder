@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ESP32-S3-CAM OV3660 MJPEG camera
 
 This project serves a live OV3660 camera feed and a responsive control page from
@@ -183,3 +184,6 @@ higher quality and larger frames). The camera is configured for JPEG, two
 PSRAM-resident frame buffers, and the latest-frame grab mode. If you change
 these settings or use a different camera module, check the camera driver's
 supported resolutions and available memory.
+=======
+# HoleFinder
+>>>>>>> 1caf4f8211a3a7f95f597b947090a343659971cc
